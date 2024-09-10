@@ -1,4 +1,4 @@
-# CGPA-Calculator
+# CGPA-Calculator in NEXARIZA
 
 
 
